@@ -1,0 +1,9 @@
+.titre{
+   font-size: 200%;
+   text-align: center;
+   margin: 2% 10% ;
+   color: teal;
+   border-bottom: 1.5px solid rgb(92, 91, 86);
+   width : 80%;
+   padding-bottom: 2%;
+}
